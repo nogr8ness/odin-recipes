@@ -1,0 +1,19 @@
+a {
+    color: orangered;
+    text-decoration: none;
+    
+}
+
+li :not(.recipe li), a {
+    font-size: 32px;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+.recipe li {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
